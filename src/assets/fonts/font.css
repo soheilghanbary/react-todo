@@ -1,0 +1,72 @@
+@font-face {
+  font-family: irsans;
+  font-weight: 300;
+  src: url('./dana/Dana-Light.woff2');
+}
+@font-face {
+  font-family: irsans;
+  font-weight: 400;
+  src: url('./dana/Dana-Regular.woff2');
+}
+@font-face {
+  font-family: irsans;
+  font-weight: 500;
+  src: url('./dana/Dana-Medium.woff2');
+}
+@font-face {
+  font-family: irsans;
+  font-weight: 600;
+  src: url('./dana/Dana-DemiBold.woff2');
+}
+@font-face {
+  font-family: irsans;
+  font-weight: 700;
+  src: url('./dana/Dana-Bold.woff2');
+}
+@font-face {
+  font-family: irsans;
+  font-weight: 800;
+  src: url('./dana/Dana-ExtraBold.woff2');
+}
+@font-face {
+  font-family: irsans;
+  font-weight: 900;
+  src: url('./dana/Dana-Black.woff2');
+}
+
+/* Inter font */
+@font-face {
+  font-family: inter;
+  font-weight: 300;
+  src: url('./inter/Inter-Light.woff2');
+}
+@font-face {
+  font-family: inter;
+  font-weight: 400;
+  src: url('./nter/Inter-Regular.woff2');
+}
+@font-face {
+  font-family: inter;
+  font-weight: 500;
+  src: url('./inter/Inter-Medium.woff');
+}
+@font-face {
+  font-family: inter;
+  font-weight: 600;
+  src: url('./inter/Inter-SemiBold.woff2');
+}
+@font-face {
+  font-family: inter;
+  font-weight: 700;
+  src: url('./inter/Inter-Bold.woff2')
+}
+@font-face {
+  font-family: inter;
+  font-weight: 800;
+  src: url('./inter/Inter-ExtraBold.woff2');
+}
+@font-face {
+  font-family: inter;
+  font-weight: 900;
+  src: url('./inter/Inter-Black.woff2'); 
+}
