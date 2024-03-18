@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
   font-family: irsans;
   font-weight: 300;
   src: url('./dana/Dana-Light.woff2');
@@ -32,7 +32,7 @@
   font-family: irsans;
   font-weight: 900;
   src: url('./dana/Dana-Black.woff2');
-}
+} */
 
 /* Inter font */
 @font-face {
@@ -43,12 +43,12 @@
 @font-face {
   font-family: inter;
   font-weight: 400;
-  src: url('./nter/Inter-Regular.woff2');
+  src: url('./inter/Inter-Regular.woff2');
 }
 @font-face {
   font-family: inter;
   font-weight: 500;
-  src: url('./inter/Inter-Medium.woff');
+  src: url('./inter/Inter-Medium.woff2');
 }
 @font-face {
   font-family: inter;
